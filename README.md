@@ -28,4 +28,4 @@ First, I calibrated the sensor in respect to intensity values.
 17 to the center of the line.
 And accelerated corresponding wheels to make sure the robot following the line. (Initially I placed it to the right from the line).
 
-P.S. I sent you the video in telegram
+https://youtu.be/c5c3hw3irfU
