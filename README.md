@@ -29,3 +29,10 @@ First, I calibrated the sensor in respect to intensity values.
 And accelerated corresponding wheels to make sure the robot following the line. (Initially I placed it to the right from the line).
 
 https://youtu.be/c5c3hw3irfU
+
+P.S. file hw4_v1 introduces the concept and works for sharp turns as well. file hw4_v2 provides an idea for calibrated p controller. Deviation is taken into account proportionally and motion is more smooth.
+
+One may note that other terms could be introduced with different weights. (For ex. Quadratic, logarithmic etc.)
+
+It is possible to adjust the parameters (mainly weights) manually or train neural network/genetic algorithm to find a better solution.
+For general cases 2 sensors and better algorithms have to be introduced.
